@@ -9,8 +9,8 @@ Using a hedonic pricing model, the analysis evaluates whether price differences 
 This project uses publicly available apartment transaction(resale) datasets provided by Ministry of Land, Infrastructure and Transport.   
 The dataset include transaction prices, property characteristics, transaction records, and broker location information.
 - Region: Seoul, South Korea
-- Period: Nov 2021 - Dec 2025 
-- 
+- Period: Nov 2021 - Dec 2025
+  
 
 The raw data are not included in this repository. Users can access the original data from the public data source linked below.   
 $\bullet$ [Data source link](https://rt.molit.go.kr/).
